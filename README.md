@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <h2 align="center"> My GitHub stats so far </h2>
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricklogar&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricklogar&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ricklogar&show_icons=true&theme=midnight-purple"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricklogar&layout=compact&theme=midnight-purple"/>
 </p>
