@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi Everybody 😸
+### Hi Everybody 😸
 
-<h2 align="center"> About me </h2>
+<h2> About me </h2>
 
 <p>
  I am currently working on some personal projects for my professional portfolio using technologies like HTML5, CSS3, Vanilla JavaScript, etc.
