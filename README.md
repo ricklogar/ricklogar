@@ -1,5 +1,3 @@
-### Hi Hello Everybody 😸
-
 <!--
 **ricklogar/ricklogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi Everybody 😸
 
 <h2 align="center"> About me </h2>
 
