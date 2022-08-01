@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2> About me </h2>
 
 <p>
- I am currently working on some personal projects for my professional portfolio using technologies like HTML5, CSS3, Vanilla JavaScript, etc.
+ *I am currently working on some personal projects for my professional portfolio using technologies like HTML5, CSS3, Vanilla JavaScript, etc.*
 </p>
 
 <h2 align="center"> My GitHub stats so far </h2>
